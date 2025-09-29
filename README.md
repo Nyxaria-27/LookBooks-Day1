@@ -1,6 +1,6 @@
 # Laravel Bookstore
 
-A simple **Laravel Bookstore application** created as a practice project for **USK (Uji Sertifikasi Kompetensi)** preparation (Day 1/Day 2).
+A simple **Laravel Bookstore application** created as a practice project for **USK (Uji Sertifikasi Kompetensi)** preparation (Day 1).
 
 ## 🎯 Purpose
 
@@ -17,9 +17,10 @@ A simple **Laravel Bookstore application** created as a practice project for **U
 
 ## 🛠️ Tech Stack
 
-* **Laravel** 10
+* **Laravel** 12
 * **MySQL** / MariaDB
 * **Blade Template Engine**
+* **Laravel Breeze Starter Kit**
 * **Bootstrap** / **Tailwind CSS** (for styling, optional)
 
 ## 🚀 Installation
@@ -87,4 +88,4 @@ Follow the steps below to set up the project locally:
 
 ---
 
-✨ Created as part of **USK 1-Day Training (Day 1/Day 2) Preparation**.
+✨ Created as part of **USK 1-Day Training (Day 1) Preparation**.
